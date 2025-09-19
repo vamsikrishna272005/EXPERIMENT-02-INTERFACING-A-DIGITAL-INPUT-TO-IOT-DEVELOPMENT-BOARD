@@ -3,7 +3,7 @@
 
 DATE : 28-8-2025
 
-NAME : Vamsi KRishna G
+NAME : Vamsi Krishna G
 
 REG NO : 212223220120
 
@@ -213,7 +213,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![WhatsApp Image 2025-08-28 at 16 37 48_63dd236a](https://github.com/user-attachments/assets/3b41c936-960d-41a4-90b0-e42a75a75df3)
 
 
-![WhatsApp Image 2025-08-28 at 16 37 50_e5f9e36a](https://github.com/user-attachments/assets/9b403969-4e56-4ad5-bcd9-cc596dac2c91)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a4a1e11c-cfe7-4765-a308-d1316df627a4" />
 
 ## Result
 
